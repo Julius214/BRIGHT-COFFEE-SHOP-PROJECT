@@ -46,5 +46,3 @@ Incorporate customer segmentation
 Add predictive analytics for demand forecasting
 Include external factors (weather, holidays, location trends)
 Build an interactive dashboard
-
-If you want, I can tailor this README specifically to your dataset or include real insights and charts—just share your data or notebook.
